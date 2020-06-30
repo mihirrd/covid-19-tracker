@@ -1,0 +1,22 @@
+.BarsContainer{
+    margin:10vh;
+    align-items: center;
+    position: fixed;
+    padding-top: 10px;
+
+
+}
+
+.arrayBars{
+    display: inline-block;
+    margin: 0 1px;
+    background-color: tomato;
+    width: 2px;
+}
+
+.Buttons{
+    background-color: greenyellow;
+    height: 40px;
+    width: 100px;
+    margin: 4px 5px;
+}
