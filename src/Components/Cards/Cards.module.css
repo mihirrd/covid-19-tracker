@@ -1,0 +1,48 @@
+.container{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    height: 20vh;
+    justify-content: space-evenly;
+}
+
+.active{
+
+    background-color: white;
+    border-radius: 10%;
+    width: 25%;
+    box-shadow: 1px 5px 10px 1px #888888;
+    text-align: center;
+}
+.recovered{
+    background-color: white;
+    border-radius: 10%;
+    width: 25%;
+    box-shadow: 1px 5px 10px 1px #888888;
+    text-align: center;
+}
+.deaths{
+    background-color: white;
+    border-radius: 10%;
+    width: 25%;
+    box-shadow: 1px 5px 10px 1px #888888;
+    text-align: center;
+}
+
+.data_act{
+    font-size: 4vh;
+    color: blue;
+  
+}
+
+.data_rec{
+    font-size: 4vh;
+    color: green;
+
+}
+
+.data_death{
+    font-size: 4vh;
+    color: red;
+    
+}
